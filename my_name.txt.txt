@@ -1,1 +1,2 @@
 hello RENUKA
+here i am writing directly from git repo
